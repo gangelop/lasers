@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo 'firing lasers...'
+echo 'Firing lasers...'
 echo 'PEW!'
