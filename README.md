@@ -1,4 +1,4 @@
-# LASER
+# LASERS
 
 Includes:
 
