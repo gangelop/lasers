@@ -11,4 +11,6 @@ for i in $(seq 10); do
 done
 sleep 1
 
+echo 'MEH! Blue Screen Of The Death :('
+
 exit 0
